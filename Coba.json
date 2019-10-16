@@ -1,0 +1,38 @@
+ [
+        {
+            "name": "Naruto: Shippuuden",
+            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"Animation | Drama | Adventure",
+            "studio":"Studio Pierrot",
+            "img": "https://asset.kompas.com/crops/_zuAigWtFdotYrPTitDAsrwFU_8=/0x0:998x665/750x500/data/photo/2019/05/08/471370975.jpg"
+        },
+        {
+            "name": "One Piece",
+            "description": "Gol D. Roger was known as the 'Pirate King',the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.",
+            "Rating": "8.54",
+            "episode": 700,
+             "categorie":"Animation | Drama | Adventure",
+            "studio":"Toei Animation",
+            "img": "https://myanimelist.cdn-dena.com/images/anime/6/73245.jpg"
+        },
+        {
+            "name": "Attack on Titan",
+            "description": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.",
+            "Rating": "8.50",
+            "episode": 500,
+            "categorie":"Animation | Drama | Adventure",
+            "studio":"Wit Studio",
+            "img": "https://myanimelist.cdn-dena.com/images/anime/10/47347.jpg"
+        },
+        {
+            "name": "Monster",
+            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
+            "Rating": "8.16",
+            "episode": 70,
+            "categorie":"Animation | Drama | Adventure",
+            "studio":"Madhouse",
+            "img": "https://myanimelist.cdn-dena.com/images/anime/10/18793.jpg"
+        }
+    ]
